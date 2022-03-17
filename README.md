@@ -16,7 +16,7 @@ This main branch contains the overview of the Tutorial Series. You will get less
 
 1. Clone this repository
     ```sh
-    git clone https://github.com/learnwithsumit/tailwind-playlist.git
+    git clone https://github.com/learnwithsumit/js-tutorial-for-beginners.git
     ```
 2. Checkout desired branch
     ```sh
