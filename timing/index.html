@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>timing functions</title>
+    </head>
+    <body>
+        <div id="timeout"></div>
+        <div id="interval"></div>
+
+        <div>
+            <input
+                type="button"
+                value="Start timeout"
+                onclick="startTimeout()"
+            />
+        </div>
+
+        <div>
+            <input type="button" value="Stop timeout" onclick="stopTimeout()" />
+        </div>
+
+        <div>
+            <input
+                type="button"
+                value="Start interval"
+                onclick="startInterval()"
+            />
+        </div>
+
+        <div>
+            <input
+                type="button"
+                value="Stop interval"
+                onclick="stopInterval()"
+            />
+        </div>
+
+        <script src="./script.js"></script>
+    </body>
+</html>

@@ -4,25 +4,27 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/js-tutorial-for-beginners">JavaScript Bangla Tutorial for Beginners Playlist lessons by Learn with Sumit</a></h3>
+  <h3 align="center"><a href="https://github.com/learnwithsumit/tailwind-playlist">JavaScript Bangla Tutorial for Beginners Playlist - Browser Object Model - BOM</a></h3>
 
 ## Youtube Tutorial link
+
+You can get all the tutorials on BOM here - https://lwsbd.link/bom
 
 You can get the complete series of tutorials here - https://lwsbd.link/startjs
 
 ## How to follow this repository
 
-This main branch contains the overview of the Tutorial Series. You will get lesson by lesson source code in corresponding branches of this repository. You can access each lesson source code by checking out corresponding branch. For example, to get the source code for Lesson - 2, just follow the below steps:
+This branch contains source code of all the examples shown in the videos. To checkout this branch, just follow the below steps:
 
 1. Clone this repository
     ```sh
-    git clone https://github.com/learnwithsumit/js-tutorial-for-beginners.git
+    git clone https://github.com/learnwithsumit/tailwind-playlist.git
     ```
-2. Checkout desired branch
+2. Checkout 'lesson-bom' branch
     ```sh
-    git checkout lesson-2
+    git checkout lesson-bom
     ```
-3. Follow the instructions from that branch readme file.
+3. Run all html files inside different folders with the help of VS Code Live Server plugin.
 
 <!-- CONTACT -->
 
