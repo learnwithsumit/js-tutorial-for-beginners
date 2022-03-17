@@ -4,7 +4,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/tailwind-playlist">JavaScript Bangla Tutorial for Beginners Playlist lessons by Learn with Sumit</a></h3>
+  <h3 align="center"><a href="https://github.com/learnwithsumit/js-tutorial-for-beginners">JavaScript Bangla Tutorial for Beginners Playlist lessons by Learn with Sumit</a></h3>
 
 ## Youtube Tutorial link
 
